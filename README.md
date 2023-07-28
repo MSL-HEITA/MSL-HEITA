@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MSL-HEITA
 - 👀 I’m interested in web davelopment, game development and mobile developmet
-- 🌱 I’m currently learning javascript and react.js
 - 💞️ I’m looking to collaborate on mobile and web apps
 - 📫 How to reach me on github
 
